@@ -10,7 +10,7 @@
     width: 1440px;
 
     height: 700px;
-    background-image: url('./styles/image/Background.png');
+    background-image: url('./styles/image/background.png');
     background-repeat: no-repeat;
     background-position: center;
     margin: 0 auto;
@@ -130,17 +130,17 @@
             margin-top: 35px;
 
             &__col:nth-child(1) {
-                background-image: url('./styles/image/DreamShare/Step\ 1\ image.png');
+                background-image: url('./styles/image/dreamshare/step\ 1\ image.png');
 
             }
 
             &__col:nth-child(2) {
-                background-image: url('./styles/image/DreamShare/Step\ 2.png');
+                background-image: url('./styles/image/dreamshare/step\ 2.png');
 
             }
 
             &__col:nth-child(3) {
-                background-image: url('./styles/image/DreamShare/Step\ 3.png');
+                background-image: url('./styles/image/dreamshare/step\ 3.png');
             }
 
             &__col {
@@ -217,7 +217,7 @@
             margin-top: 37px;
 
             &__item:nth-child(1) {
-                background-image: url('./styles/image/Partner/Avatar1.png');
+                background-image: url('./styles/image/partner/avatar1.png');
                 background-repeat: no-repeat;
                 background-position-x: center;
                 width: 24%;
@@ -227,7 +227,7 @@
             }
 
             &__item:nth-child(2) {
-                background-image: url('./styles/image/Partner/Avatar2.png');
+                background-image: url('./styles/image/partner/avatar2.png');
                 background-repeat: no-repeat;
                 background-position-x: center;
                 width: 24%;
@@ -237,7 +237,7 @@
             }
 
             &__item:nth-child(3) {
-                background-image: url('./styles/image/Partner/Avatar3.png');
+                background-image: url('./styles/image/partner/avatar3.png');
                 background-repeat: no-repeat;
                 background-position-x: center;
                 width: 24%;
@@ -247,7 +247,7 @@
             }
 
             &__item:nth-child(4) {
-                background-image: url('./styles/image/Partner/Avatar4.png');
+                background-image: url('./styles/image/partner/avatar4.png');
                 background-repeat: no-repeat;
                 background-position-x: center;
                 width: 23%;
@@ -393,37 +393,37 @@
                 color: $main-text-colour;
 
                 &__Sports {
-                    background-image: url('./styles/image/Holiday/Object1.png');
+                    background-image: url('./styles/image/holiday/object1.png');
                     @extend %holiday-background;
                 }
 
                 &__Wellness {
-                    background-image: url('./styles/image/Holiday/Object2.png');
+                    background-image: url('./styles/image/holiday/object2.png');
                     @extend %holiday-background;
                 }
 
                 &__Extreme {
-                    background-image: url('./styles/image/Holiday/Object3.png');
+                    background-image: url('./styles/image/holiday/object3.png');
                     @extend %holiday-background;
                 }
 
                 &__games {
-                    background-image: url('./styles/image/Holiday/Object4.png');
+                    background-image: url('./styles/image/holiday/object4.png');
                     @extend %holiday-background;
                 }
 
                 &__Culture {
-                    background-image: url('./styles/image/Holiday/Object5.png');
+                    background-image: url('./styles/image/holiday/object5.png');
                     @extend %holiday-background;
                 }
 
                 &__Enjomet {
-                    background-image: url('./styles/image/Holiday/Object6.png');
+                    background-image: url('./styles/image/holiday/object6.png');
                     @extend %holiday-background;
                 }
 
                 &__Trevelling {
-                    background-image: url('./styles/image/Holiday/Object7.png');
+                    background-image: url('./styles/image/holiday/object7.png');
                     @extend %holiday-background;
                 }
 
@@ -735,7 +735,7 @@
                     }
 
                     &__Trevelling {
-                        background-image: url('./styles/image/Holiday/Travelling.png');
+                        background-image: url('./styles/image/holiday/travelling.png');
                     }
                 }
 
@@ -812,7 +812,7 @@
         width: 320px;
         height: 540px;
         padding-top: 20px;
-        background-image: url('./styles/image/Header/Mobile/Background.png');
+        background-image: url('./styles/image/header/mobile/background.png');
         animation-name: promo-mobile;
         animation-duration: 40s;
         animation-iteration-count: infinite;
@@ -902,15 +902,15 @@
                 }
 
                 &__col:nth-child(1) {
-                    background-image: url('./styles/image/DreamShare/mobile/Step\ 1\ image.png');
+                    background-image: url('./styles/image/dreamShare/mobile/step\ 1\ image.png');
                 }
 
                 &__col:nth-child(2) {
-                    background-image: url('./styles/image/DreamShare/mobile/Step\ 2.png');
+                    background-image: url('./styles/image/dreamShare/mobile/step\ 2.png');
                 }
 
                 &__col:nth-child(3) {
-                    background-image: url('./styles/image/DreamShare/mobile/Step\ 3.png');
+                    background-image: url('./styles/image/dreamShare/mobile/step\ 3.png');
                 }
 
                 &__col:hover {
@@ -994,37 +994,37 @@
                     margin-top: -10px;
 
                     &__Sports {
-                        background-image: url('./styles/image/Holiday/Mobile/Object1.png');
+                        background-image: url('./styles/image/holiday/mobile/object1.png');
                         background-position-x: 0px;
                     }
 
                     &__Wellness {
-                        background-image: url('./styles/image/Holiday/Mobile/Healath.png');
+                        background-image: url('./styles/image/holiday/mobile/healath.png');
                         background-position-x: 0px;
                     }
 
                     &__Extreme {
-                        background-image: url('./styles/image/Holiday/Mobile/Extreme.png');
+                        background-image: url('./styles/image/holiday/mobile/extreme.png');
                         background-position-x: 0px;
                     }
 
                     &__games {
-                        background-image: url('./styles/image/Holiday/Mobile/Games.png');
+                        background-image: url('./styles/image/holiday/mobile/games.png');
                         background-position-x: 0px;
                     }
 
                     &__Culture {
-                        background-image: url('./styles/image/Holiday/Mobile/Culture.png');
+                        background-image: url('./styles/image/holiday/mobile/culture.png');
                         background-position-x: 0px;
                     }
 
                     &__Enjomet {
-                        background-image: url('./styles/image/Holiday/Mobile/Enjoment.png');
+                        background-image: url('./styles/image/holiday/mobile/enjoment.png');
                         background-position-x: 0px;
                     }
 
                     &__Trevelling {
-                        background-image: url('./styles/image/Holiday/Mobile/Trevelling.png');
+                        background-image: url('./styles/image/holiday/mobile/trevelling.png');
                         background-position-x: 0px;
                     }
                 }
