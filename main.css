@@ -73,18 +73,18 @@ meter {
 
 @font-face {
   font-family: 'Roboto';
-  src: url("../fonts/Roboto-Light.ttf");
+  src: url("./styles/fonts/roboto-light.ttf");
 }
 
 @font-face {
   font-family: 'Montserrat';
-  src: url("../fonts/Montserrat-VariableFont_wght.ttf");
+  src: url("./styles/fonts/montserrat-variablefont_wght.ttf");
 }
 
 .header {
   width: 1440px;
   height: 700px;
-  background-image: url("./styles/image/Background.png");
+  background-image: url("./styles/image/background.png");
   background-repeat: no-repeat;
   background-position: center;
   margin: 0 auto;
@@ -260,15 +260,15 @@ meter {
 }
 
 .container .dreamshare__grid__col:nth-child(1) {
-  background-image: url("./styles/image/DreamShare/Step 1 image.png");
+  background-image: url("./styles/image/dreamshare/step\ 1\ image.png");
 }
 
 .container .dreamshare__grid__col:nth-child(2) {
-  background-image: url("./styles/image/DreamShare/Step 2.png");
+  background-image: url("./styles/image/dreamshare/step\ 2.png");
 }
 
 .container .dreamshare__grid__col:nth-child(3) {
-  background-image: url("./styles/image/DreamShare/Step 3.png");
+  background-image: url("./styles/image/dreamshare/step\ 3.png");
 }
 
 .container .dreamshare__grid__col {
@@ -389,7 +389,7 @@ meter {
 }
 
 .container .partner__person__item:nth-child(1) {
-  background-image: url("./styles/image/Partner/Avatar1.png");
+  background-image: url("./styles/image/partner/avatar1.png");
   background-repeat: no-repeat;
   background-position-x: center;
   width: 24%;
@@ -399,7 +399,7 @@ meter {
 }
 
 .container .partner__person__item:nth-child(2) {
-  background-image: url("./styles/image/Partner/Avatar2.png");
+  background-image: url("./styles/image/partner/avatar2.png");
   background-repeat: no-repeat;
   background-position-x: center;
   width: 24%;
@@ -409,7 +409,7 @@ meter {
 }
 
 .container .partner__person__item:nth-child(3) {
-  background-image: url("./styles/image/Partner/Avatar3.png");
+  background-image: url("./styles/image/partner/avatar3.png");
   background-repeat: no-repeat;
   background-position-x: center;
   width: 24%;
@@ -419,7 +419,7 @@ meter {
 }
 
 .container .partner__person__item:nth-child(4) {
-  background-image: url("./styles/image/Partner/Avatar4.png");
+  background-image: url("./styles/image/partner/avatar4.png");
   background-repeat: no-repeat;
   background-position-x: center;
   width: 23%;
@@ -751,7 +751,7 @@ meter {
 .container .holiday__grid__col__Sports {
   width: 100%;
   height: 100%;
-  background-image: url("./styles/image/Holiday/Object1.png");
+  background-image: url("./styles/image/holiday/object1.png");
   background-repeat: no-repeat;
   opacity: 0.75;
   position: relative;
@@ -761,7 +761,7 @@ meter {
 .container .holiday__grid__col__Wellness {
   width: 100%;
   height: 100%;
-  background-image: url("./styles/image/Holiday/Object2.png");
+  background-image: url("./styles/image/holiday/object2.png");
   background-repeat: no-repeat;
   opacity: 0.75;
   position: relative;
@@ -771,7 +771,7 @@ meter {
 .container .holiday__grid__col__Extreme {
   width: 100%;
   height: 100%;
-  background-image: url("./styles/image/Holiday/Object3.png");
+  background-image: url("./styles/image/holiday/object3.png");
   background-repeat: no-repeat;
   opacity: 0.75;
   position: relative;
@@ -781,7 +781,7 @@ meter {
 .container .holiday__grid__col__games {
   width: 100%;
   height: 100%;
-  background-image: url("./styles/image/Holiday/Object4.png");
+  background-image: url("./styles/image/holiday/object4.png");
   background-repeat: no-repeat;
   opacity: 0.75;
   position: relative;
@@ -791,7 +791,7 @@ meter {
 .container .holiday__grid__col__Culture {
   width: 100%;
   height: 100%;
-  background-image: url("./styles/image/Holiday/Object5.png");
+  background-image: url("./styles/image/holiday/object5.png");
   background-repeat: no-repeat;
   opacity: 0.75;
   position: relative;
@@ -801,7 +801,7 @@ meter {
 .container .holiday__grid__col__Enjomet {
   width: 100%;
   height: 100%;
-  background-image: url("./styles/image/Holiday/Object6.png");
+  background-image: url("./styles/image/holiday/object6.png");
   background-repeat: no-repeat;
   opacity: 0.75;
   position: relative;
@@ -811,7 +811,7 @@ meter {
 .container .holiday__grid__col__Trevelling {
   width: 100%;
   height: 100%;
-  background-image: url("./styles/image/Holiday/Object7.png");
+  background-image: url("./styles/image/holiday/object7.png");
   background-repeat: no-repeat;
   opacity: 0.75;
   position: relative;
@@ -1213,7 +1213,7 @@ meter {
   }
 
   .container .holiday__grid__col__Trevelling {
-    background-image: url("./styles/image/Holiday/Travelling.png");
+    background-image: url("./styles/image/holiday/travelling.png");
   }
 
   .container .holiday__grid__col:nth-child(1)::after {
@@ -1281,7 +1281,7 @@ meter {
     width: 320px;
     height: 540px;
     padding-top: 20px;
-    background-image: url("./styles/image/Header/Mobile/Background.png");
+    background-image: url("./styles/image/header/mobile/background.png");
     -webkit-animation-name: promo-mobile;
     animation-name: promo-mobile;
     -webkit-animation-duration: 40s;
@@ -1386,15 +1386,15 @@ meter {
   }
 
   .container .dreamshare__grid__col:nth-child(1) {
-    background-image: url("./styles/image/DreamShare/mobile/Step 1 image.png");
+    background-image: url("./styles/image/dreamshare/mobile/step\ 1\ image.png");
   }
 
   .container .dreamshare__grid__col:nth-child(2) {
-    background-image: url("./styles/image/DreamShare/mobile/Step 2.png");
+    background-image: url("./styles/image/dreamshare/mobile/step\ 2.png");
   }
 
   .container .dreamshare__grid__col:nth-child(3) {
-    background-image: url("./styles/image/DreamShare/mobile/Step 3.png");
+    background-image: url("./styles/image/dreamshare/mobile/step\ 3.png");
   }
 
   .container .dreamshare__grid__col:hover {
@@ -1499,37 +1499,37 @@ meter {
   }
 
   .container .holiday__grid__col__Sports {
-    background-image: url("./styles/image/Holiday/Mobile/Object1.png");
+    background-image: url("./styles/image/holiday/mobile/object1.png");
     background-position-x: 0px;
   }
 
   .container .holiday__grid__col__Wellness {
-    background-image: url("./styles/image/Holiday/Mobile/Healath.png");
+    background-image: url("./styles/image/holiday/mobile/healath.png");
     background-position-x: 0px;
   }
 
   .container .holiday__grid__col__Extreme {
-    background-image: url("./styles/image/Holiday/Mobile/Extreme.png");
+    background-image: url("./styles/image/holiday/mobile/extreme.png");
     background-position-x: 0px;
   }
 
   .container .holiday__grid__col__games {
-    background-image: url("./styles/image/Holiday/Mobile/Games.png");
+    background-image: url("./styles/image/holiday/mobile/games.png");
     background-position-x: 0px;
   }
 
   .container .holiday__grid__col__Culture {
-    background-image: url("./styles/image/Holiday/Mobile/Culture.png");
+    background-image: url("./styles/image/holiday/mobile/culture.png");
     background-position-x: 0px;
   }
 
   .container .holiday__grid__col__Enjomet {
-    background-image: url("./styles/image/Holiday/Mobile/Enjoment.png");
+    background-image: url("./styles/image/holiday/mobile/enjoment.png");
     background-position-x: 0px;
   }
 
   .container .holiday__grid__col__Trevelling {
-    background-image: url("./styles/image/Holiday/Mobile/Trevelling.png");
+    background-image: url("./styles/image/holiday/mobile/trevelling.png");
     background-position-x: 0px;
   }
 
